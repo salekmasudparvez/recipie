@@ -2,7 +2,7 @@
     {
       "recipe_id": 1,
       "recipe_name": "Spaghetti Carbonara",
-      "recipe_image": "https://github.com/salekmasudparvez/recipie/blob/main/images/pasta-712664_1280.jpg",
+      "recipe_image": "https://raw.githubusercontent.com/salekmasudparvez/recipie/main/images/pasta-712664_1280.jpg",
       "short_description": "A classic Italian pasta dish with creamy sauce and crispy bacon.",
       "ingredients": ["400g spaghetti", "200g pancetta or bacon", "4 large eggs", "100g grated Parmesan cheese", "Freshly ground black pepper", "Salt to taste"],
       "preparing_time": "20 min",
@@ -11,7 +11,7 @@
     {
       "recipe_id": 2,
       "recipe_name": "Caprese Salad",
-      "recipe_image": "https://github.com/salekmasudparvez/recipie/blob/main/images/caprese-1106632_1280.jpg",
+      "recipe_image": "https://raw.githubusercontent.com/salekmasudparvez/recipie/main/images/caprese-1106632_1280.jpg",
       "short_description": "A simple yet flavorful salad made with fresh tomatoes, mozzarella, and basil.",
       "ingredients": ["3 large tomatoes", "250g fresh mozzarella cheese", "1/4 cup fresh basil leaves", "2 tbsp extra virgin olive oil", "Salt and pepper to taste"],
       "preparing_time": "10 min",
@@ -20,7 +20,7 @@
     {
       "recipe_id": 3,
       "recipe_name": "Chicken Stir Fry",
-      "recipe_image": "https://github.com/salekmasudparvez/recipie/blob/main/images/stir-fry-278925_1280.jpg",
+      "recipe_image": "https://raw.githubusercontent.com/salekmasudparvez/recipie/main/images/stir-fry-278925_1280.jpg",
       "short_description": "A quick and easy stir-fry dish packed with tender chicken and colorful vegetables.",
       "ingredients": ["500g chicken breast, thinly sliced", "1 red bell pepper, sliced", "1 green bell pepper, sliced", "1 onion, sliced", "3 cloves garlic, minced", "120ml soy sauce", "2 tbsp vegetable oil"],
       "preparing_time": "25 min",
@@ -29,7 +29,7 @@
     {
       "recipe_id": 4,
       "recipe_name": "Vegetable Soup",
-      "recipe_image": "vegetable_soup.jpg",
+      "recipe_image": "https://raw.githubusercontent.com/salekmasudparvez/recipie/main/images/vegetable-6322023_1280.jpg",
       "short_description": "A hearty and nutritious soup filled with a variety of vegetables.",
       "ingredients": ["2 carrots, diced", "2 celery stalks, diced", "1 onion, chopped", "2 cloves garlic, minced", "4 cups vegetable broth", "1 can diced tomatoes", "1 cup pasta shells", "1 cup spinach leaves", "Salt and pepper to taste"],
       "preparing_time": "35 min",
@@ -38,7 +38,7 @@
     {
       "recipe_id": 5,
       "recipe_name": "Chocolate Chip Cookies",
-      "recipe_image": "https://github.com/salekmasudparvez/recipie/blob/main/images/cookies-8082386_1280.jpg",
+      "recipe_image": "https://raw.githubusercontent.com/salekmasudparvez/recipie/main/images/cookies-8082386_1280.jpg",
       "short_description": "Classic homemade cookies loaded with chocolate chips, perfect for any occasion.",
       "ingredients": ["1 cup unsalted butter, softened", "3/4 cup granulated sugar", "3/4 cup packed brown sugar", "2 large eggs", "1 tsp vanilla extract", "2 1/4 cups all-purpose flour", "1 tsp baking soda", "1/2 tsp salt", "2 cups semisweet chocolate chips"],
       "preparing_time": "15 min",
@@ -47,7 +47,7 @@
     {
       "recipe_id": 6,
       "recipe_name": "Mango Smoothie",
-      "recipe_image": "https://github.com/salekmasudparvez/recipie/blob/main/images/mango-3380631_1280.jpg",
+      "recipe_image": "https://raw.githubusercontent.com/salekmasudparvez/recipie/main/images/mango-3380631_1280.jpg",
       "short_description": "A refreshing and tropical smoothie made with fresh mangoes and yogurt.",
       "ingredients": ["2 ripe mangoes, peeled and diced", "1 cup plain yogurt", "1/2 cup milk", "1 tbsp honey (optional)", "Ice cubes"],
       "preparing_time": "5 min",
